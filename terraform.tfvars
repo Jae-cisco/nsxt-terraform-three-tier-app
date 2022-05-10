@@ -1,7 +1,7 @@
 nsx = {
-    ip  = "10.29.15.73"
+    ip  = "10.70.137.41"
     user = "admin"
-    password = "VMware1!"
+    password = "!234Qwer"
 }
 nsx_data_vars = {
     transport_zone  = "tz1"
